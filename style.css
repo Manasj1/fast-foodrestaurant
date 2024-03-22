@@ -299,10 +299,6 @@ a{
     text-decoration: line-through;
     font-size: 1.5rem;
 }
-/* ------------------------------------------MENU SECTION */
-
-
-/* ------------------------------------------PRODUCTS SECTION */
 .products .box-container .box .box-head{
     display: flex;
     flex-direction: column;
@@ -353,9 +349,6 @@ a{
     color: var(--main-color);
 }
 
-/* ------------------------------------------PRODUCTS SECTION */
-
-/* ------------------------------------------ABOUT US SECTION */
 .about .row .image{
      flex: 1 1 45rem;
 }
@@ -363,7 +356,6 @@ a{
     height: 50rem;
     object-fit: contain;
 }
-/* img  genel olarak düzenlendi */
 
 .about .row{
     display: flex;
@@ -386,9 +378,6 @@ a{
     padding: 1rem 0;
     line-height: 1.8;
 }
-/* ------------------------------------------ABOUT US SECTION */
-/* ------------------------------------------REVIEW SECTION */
-/* img .box-container ve .box  genel olarak düzenlendi */
 
 .review .box-container .box img{
     height: 20rem;
@@ -415,9 +404,7 @@ a{
     font-size: 1.5rem;
     color: gold;
 }
-/* ------------------------------------------REVIEW SECTION */
 
-/* ------------------------------------------CONTACT SECTION */
 .contact .row{
     display: flex;
     background-color: var(--black-color);
@@ -469,9 +456,7 @@ a{
     background-color: #fff;
     font-weight: bold;
 }
-/* ------------------------------------------CONTACT SECTION */
 
-/* ------------------------------------------BLOG SECTION */
 .blog .box-container .box-full{
     background-color: #fff;
     border-radius: 3rem;
@@ -509,9 +494,7 @@ a{
     color: #ccc;
     padding: 1rem 0;
 }
-/* ------------------------------------------BLOG SECTION */
 
-/* ------------------------------------------FOOTER SECTION */
 .footer {
     background-color: var(--black-color);
     text-align: center;
@@ -582,9 +565,6 @@ a{
 .footer .credit span{
     color: var(--main-color);
 }
-/* ------------------------------------------FOOTER SECTION */
-
-/* ------------------------------------------RESPONSIVE SECTION */
 @media (max-width: 991px){
     html{
         font-size: 55%;
@@ -640,4 +620,3 @@ a{
 
 
 
-/* ------------------------------------------RESPONSIVE SECTION */
